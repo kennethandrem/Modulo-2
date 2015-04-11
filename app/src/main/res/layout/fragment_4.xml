@@ -1,0 +1,90 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.kennethandre.modulo_2.Fragment4">
+
+    <LinearLayout android:id="@+id/tabContenedor2"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+            android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".UserProfile">
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:id="@+id/tableLayout">
+                <TableRow>
+                    <TextView
+                        android:id="@+id/txtNombre"
+                        android:drawableLeft="@drawable/ic_action_user"
+                        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                    <TextView
+                        android:id="@+id/txtNombreUsuario"
+                        android:text="Nombre Usuario"
+                        android:typeface="sans"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:layout_column="1"
+                        style="@style/Base.TextAppearance.AppCompat.Display1" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:id="@+id/txtCorreo"
+                        android:drawableLeft="@drawable/ic_action_mail"
+                        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                    <TextView
+                        android:id="@+id/txtCorreoUsuario"
+                        android:text="Correo Usuario"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:layout_column="1"
+                        />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:id="@+id/txtTelefono"
+                        android:drawableLeft="@drawable/ic_action_call"
+                        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                    <TextView
+                        android:id="@+id/txtTelefonoUsuario"
+                        android:text="Telefono Usuario"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:layout_column="1"
+                        />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:id="@+id/txtProfesion"
+                        android:drawableLeft="@drawable/ic_action_star"
+                        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                    <TextView
+                        android:id="@+id/txtProfesionUsuario"
+                        android:text="Profesion Usuario"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:layout_column="1"
+                        />
+                </TableRow>
+                <TableRow>
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView"
+                        android:layout_marginTop="52dp" />
+                </TableRow>
+
+            </TableLayout>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

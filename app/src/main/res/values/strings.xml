@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Modulo_2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Menu Abierto</string>
+    <string name="drawer_close">Menu Cerrado</string>
+    <string name="Usuario">User</string>
+    <string name="Contraseña">Password</string>
+    <string name="Ingresar">Login</string>
+    <string name="Registrarse">Sign Up</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="Perfil">My Profile</string>
+    <string name="Nombre">Name</string>
+    <string name="Correo">E-mail</string>
+    <string name="Telefono">Phone</string>
+    <string name="Profesion">Profession</string>
+    <string name="title_activity_welcome">welcome</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="title_activity_usuario">Usuario</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="verOrdenes">See Orders</string>
+    <string name="ingresarOrden">Enter Order</string>
+    <string name="menu">Menu</string>
+    <string name="platoFuerte">Highlight</string>
+    <string name="carne">Meat</string>
+    <string name="pollo">Chicken</string>
+    <string name="mariscos">Seafood</string>
+    <string name="guarniciones">Garrison</string>
+    <string name="papas">Potatoes</string>
+    <string name="fideos">Noodles</string>
+    <string name="arroz">Rice</string>
+    <string name="fruta">Fruit</string>
+    <string name="deseaSopa">Would you like soup?</string>
+    <string name="deseaFruta">Would you like fruit?</string>
+    <string name="no">No</string>
+    <string name="si">Yes</string>
+    <string name="agua">Water</string>
+    <string name="soda">Soda</string>
+    <string name="agregar">Add</string>
+    <string name="title_activity_orden">Orden</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_my_widget_config">MyWidgetConfig</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfil de Usuario</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Perfil">Mi Perfil</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Correo">Correo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Profesion">Profesion</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="verOrdenes">Ver Ordenes</string>
+    <string name="ingresarOrden">Ingresar Orden</string>
+    <string name="menu">Menu</string>
+    <string name="platoFuerte">Plato Fuerte</string>
+    <string name="carne">Carne</string>
+    <string name="pollo">Pollo</string>
+    <string name="mariscos">Marisco</string>
+    <string name="guarniciones">Güarniciones</string>
+    <string name="papas">Papas</string>
+    <string name="fideos">Fideos</string>
+    <string name="arroz">Arroz</string>
+    <string name="fruta">Fruta</string>
+    <string name="deseaSopa">¿Desea sopa?</string>
+    <string name="deseaFruta">¿Desea fruta?</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="agua">Agua</string>
+    <string name="soda">Gaseosa</string>
+    <string name="agregar">Añadir</string>
+    <string name="mensaje_personalizado">Mensaje Personalizado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
